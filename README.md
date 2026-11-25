@@ -1,29 +1,35 @@
 # Ziad Taha
 
-Full-stack developer in Alexandria, Egypt, working with Angular, NestJS and TypeScript.
+**Full-stack developer building storefronts, attendance and education tools with Angular, NestJS and TypeScript.** Based in Alexandria, Egypt. Open to junior full-stack roles and freelance work.
 
-I build interfaces and APIs for workflows such as storefronts, attendance and education administration. The projects below are code samples and prototypes, not claims of production deployments or customer results.
+## Currently working on
 
-## Selected projects
+- [FaceMark](https://github.com/ZiadtahaM/FaceMark) - face-recognition attendance API: NestJS + MySQL backend, separate DeepFace service, circuit breaker, JWT auth. 45 Jest tests passing locally.
+- [Al-Baraa](https://github.com/ZiadtahaM/al-baraa-educational-platform) - education administration prototype with prepaid lesson minutes and teacher payouts (React + Cloudflare Pages/D1).
 
-| Project | What to look at | Scope |
+## Stack
+
+**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+**Backend:** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+## Featured projects
+
+| Project | What it is | Links |
 | --- | --- | --- |
-| [FaceMark](https://github.com/ZiadtahaM/FaceMark) | NestJS API, JWT auth, MySQL models, circuit breaker and a separate Python face-recognition service | Development project. 45 Jest tests passed in the latest local review; hosting and end-to-end recognition are not verified. |
-| [Al-Baraa](https://github.com/ZiadtahaM/al-baraa-educational-platform) | Education dashboard with prepaid lesson minutes and teacher-payout logic | React and Cloudflare prototype. Security/deployment work remains open. |
-| [Angular storefront](https://github.com/ZiadtahaM/ecommerce-fullstack-app) | Angular 17 SSR, product browsing, account and cart flows against a third-party API | Frontend project, not a custom commerce backend or payment platform. |
-| [Portfolio-3D](https://github.com/ZiadtahaM/Portfolio-3D) | React, TypeScript and Three.js particle scenes with WebGL fallback | Interactive portfolio code sample. |
-
-## Current focus
-
-- Angular interfaces and TypeScript application code
-- NestJS APIs, validation, authentication and MySQL integration
-- Clear setup instructions, tests and honest deployment status
+| **FaceMark** | Attendance API prototype: JWT auth, MySQL models, circuit breaker to a Python DeepFace service. Not yet deployed. | [Repo](https://github.com/ZiadtahaM/FaceMark) |
+| **Al-Baraa** | Education dashboard prototype with prepaid lesson-minute and teacher-payout logic. Security/deployment work open. | [Repo](https://github.com/ZiadtahaM/al-baraa-educational-platform) |
+| **Angular SSR storefront** | Angular 17 server-side-rendered storefront on a third-party commerce API. Frontend project, not a custom backend. | [Repo](https://github.com/ZiadtahaM/ecommerce-fullstack-app) |
+| **Portfolio-3D** | Interactive Three.js/WebGL portfolio: 2,500-particle canvas, custom GLSL shaders, WebGL fallback. | [Repo](https://github.com/ZiadtahaM/Portfolio-3D) |
+| **This portfolio site** | Static portfolio with the same projects and honest scope notes. | [Live](https://ziadtaham.github.io/ziad-taha-portfolio/) |
 
 ## Writing
 
-I write about the implementation choices and limits in these projects: [dev.to/ziadtaha](https://dev.to/ziadtaha).
+Implementation choices and limits of these projects, on [dev.to/ziadtaha](https://dev.to/ziadtaha).
 
 ## Contact
 
-- [GitHub](https://github.com/ZiadtahaM)
-- Email: ziad.taha3456@gmail.com
+**Email: ziad.taha3456@gmail.com** - fastest way to reach me for roles or freelance work.
+
+---
+
+Projects above are code samples and prototypes with verified test/build status noted in each README - not claims of production deployments or customer results.
