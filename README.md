@@ -1,6 +1,6 @@
 # Ziad Taha
 
-**Full-stack developer building storefronts, attendance and education tools with Angular, NestJS and TypeScript.** Based in Alexandria, Egypt. Open to full-stack roles and freelance work.
+**Full-stack developer building storefronts, attendance and education tools with Angular, NestJS and TypeScript.** Working with clients worldwide. Open to full-stack roles and freelance work.
 
 ## Currently working on
 
