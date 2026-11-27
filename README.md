@@ -1,6 +1,6 @@
 # Ziad Taha
 
-**Full-stack developer building storefronts, attendance and education tools with Angular, NestJS and TypeScript.** Working with clients worldwide. Open to full-stack roles and freelance work.
+**Full-stack developer building storefronts, attendance and education tools with Angular, NestJS and TypeScript.** Open to full-stack roles and freelance work.
 
 ## Currently working on
 
@@ -9,8 +9,8 @@
 
 ## Stack
 
-**Frontend:** ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-**Backend:** ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+**Frontend:** Angular, React, TypeScript  
+**Backend:** NestJS, Node.js, MySQL
 
 ## Featured projects
 
