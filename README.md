@@ -2,6 +2,20 @@
 
 **Full-stack developer building storefronts, attendance and education tools with Angular, NestJS and TypeScript.** Open to full-stack roles and freelance work.
 
+## Open source contributions
+
+Merged in the NestJS organization:
+
+- [nestjs/config#2507](https://github.com/nestjs/config/pull/2507) - merged
+- [nestjs/swagger#4328](https://github.com/nestjs/swagger/pull/4328) - merged
+- [nestjs/sequelize#2240](https://github.com/nestjs/sequelize/pull/2240) - merged
+- [nestjs/nest-cli#3735](https://github.com/nestjs/nest-cli/pull/3735) - merged
+
+Open:
+
+- [typestack/class-validator#2708](https://github.com/typestack/class-validator/pull/2708)
+- [typestack/class-transformer#1863](https://github.com/typestack/class-transformer/pull/1863)
+
 ## Currently working on
 
 - [FaceMark](https://github.com/ZiadtahaM/FaceMark) - face-recognition attendance API: NestJS + MySQL backend, separate DeepFace service, circuit breaker, JWT auth. 45 Jest tests passing locally.
