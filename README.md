@@ -15,6 +15,9 @@ Open:
 
 - [typestack/class-validator#2708](https://github.com/typestack/class-validator/pull/2708)
 - [typestack/class-transformer#1863](https://github.com/typestack/class-transformer/pull/1863)
+- [ManiraM-1/tarpit-guard#21](https://github.com/ManiraM-1/tarpit-guard/pull/21): adds a `--version` flag to the CLI
+- [Garyxie-ing/chattable#11](https://github.com/Garyxie-ing/chattable/pull/11): live character count under the chat input
+- [flint-fyi/flint#4115](https://github.com/flint-fyi/flint/pull/4115) and [#4137](https://github.com/flint-fyi/flint/pull/4137): missing rule mappings in the rule data
 
 ## Currently working on
 
